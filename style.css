@@ -62,6 +62,7 @@ nav{
 
 .link .nav_btn:hover{
     background-color: var(--primary-color-dark);
+    color: white;
 }
 .container{
     max-width: var(--max-width);
@@ -202,3 +203,4 @@ nav{
     }
 
 }
+
