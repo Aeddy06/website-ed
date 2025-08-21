@@ -129,6 +129,7 @@ nav{
 
 .content_container button:hover{
     background-color: var(--primary-color-dark);
+    color: white;
 }
 
 .image_container{
@@ -199,4 +200,5 @@ nav{
     .image_container img{
             transform: translateY(0) !important;
     }
+
 }
